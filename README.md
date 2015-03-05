@@ -1,4 +1,4 @@
-[![](https://github.com/trive/avocado/raw/master/Other/logo.png "")]
+[](https://github.com/trive/avocado/raw/master/Other/logo.png "")
 
 ## Avocado's installer (and uninstaller)
 
@@ -6,7 +6,7 @@ This repository contains the source code for Avocado's installer and uninstaller
 
 For Avocado's GitHub repository <a href="http://avocado.ideo.com" target="_blank">please click here</a>.
 
-<a href="https://github.com/trive/avocado/blob/master/Other/Uninstall%20Avocado%20%26%20Origami.zip">Click here to uninstall Avocado & Origami</a>
+<b><a href="https://github.com/trive/avocado/blob/master/Other/Uninstall%20Avocado%20%26%20Origami.zip">Click here to uninstall Avocado & Origami</a>.</b>
 
 
 ##Feedback
