@@ -52,4 +52,6 @@ echo "Origami and Avocado have been successfully uninstalled."
 echo ""
 echo "To reinstall Origami please visit: http://origami.facebook.com"
 echo "To reinstall both Avocado and Origami please visit: http://avocado.ideo.com"
+echo ""
+echo "Done!"
 PROGRESS:100
