@@ -535,7 +535,7 @@
 			<key>PACKAGE_SETTINGS</key>
 			<dict>
 				<key>AUTHENTICATION</key>
-				<false/>
+				<true/>
 				<key>CONCLUSION_ACTION</key>
 				<integer>0</integer>
 				<key>IDENTIFIER</key>
@@ -549,7 +549,7 @@
 				<key>RELOCATABLE</key>
 				<true/>
 				<key>VERSION</key>
-				<string>1.0 (beta 7)</string>
+				<string>1.1 (beta 1)</string>
 			</dict>
 			<key>UUID</key>
 			<string>C1558E95-8144-40E2-970D-73CB9AE897DD</string>
